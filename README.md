@@ -21,7 +21,7 @@ For game assembly, normally, you will add these
 
 ### Requirement
 
-* Unity 2021.3 or later
+* Unity 2022.3 or later
 
 ### Using Package Manager
 Firstly, you need to use [GitDependencyResolverForUnity](https://github.com/mob-sakai/GitDependencyResolverForUnity) package by mob-sakai to resolves git-based dependencies by adding https://github.com/mob-sakai/GitDependencyResolverForUnity.git to Package Manager.
